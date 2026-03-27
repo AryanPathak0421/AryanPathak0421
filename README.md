@@ -1,4 +1,4 @@
-<h3>Welcome!</h3>
+<h3>Welcome!</h3> 
 
 My name is Aryan Pathak, Software developer. Besides coding, I do VFX and 3D animations! 
 
